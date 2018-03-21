@@ -1,0 +1,18 @@
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+.row {
+  border: 1px solid black;
+  padding: 15px;
+  background-color: oldlace;
+}
+
+#letter {
+  display: none;
+}
+
+#address {
+  display: none;
+}
